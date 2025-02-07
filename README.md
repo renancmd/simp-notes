@@ -13,6 +13,7 @@
 - **Fixação de Notas**: Marque suas notas importantes para fácil acesso.
 - **Deleção de Notas**: Exclua notas que não são mais necessárias.
 - **Cadastro e Login de Usuários**: Os usuários podem criar uma conta, fazer login e editar seu perfil.
+- **Modo Claro/Escuro**: Escolha o tema de sua preferência
 
 ## Tecnologias Usadas
 
